@@ -29,7 +29,7 @@ export default function Index() {
     {
       id: 1,
       image:
-        "image/profile2.jpeg",
+        "image/banner.jpg",
       title: "Learn the Holy Quran",
       subtitle: "🌟 Premium Islamic Education",
       description:
@@ -40,7 +40,7 @@ export default function Index() {
     {
       id: 2,
       image:
-        "image/profile1.jpeg",
+        "image/islamic.jpeg",
       title: "Master Tajweed Rules",
       subtitle: "✨ Perfect Your Recitation",
       description:
