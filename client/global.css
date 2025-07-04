@@ -309,7 +309,7 @@
     background: linear-gradient(
       90deg,
       transparent,
-      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0),
       transparent
     );
     transition: left 0.5s ease;

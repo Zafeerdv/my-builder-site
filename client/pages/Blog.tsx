@@ -24,12 +24,12 @@ export default function Blog() {
         "Learn why proper Tajweed rules are essential for beautiful and correct Quranic recitation, and how they enhance your spiritual connection.",
       content:
         "Tajweed is the art of proper Quranic pronunciation that ensures the words of Allah are recited as they were revealed. This comprehensive guide explores the fundamental rules and their spiritual significance...",
-      author: "Sheikh Muhammad Ahmad",
+      author: "Sheikh Waseem Shah",
       date: "March 15, 2024",
       readTime: "5 min read",
       category: "Tajweed",
       image:
-        "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=400&fit=crop",
+        "image/islamic.jpeg",
       featured: true,
     },
     {
@@ -44,7 +44,7 @@ export default function Blog() {
       readTime: "7 min read",
       category: "Hifz",
       image:
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=400&fit=crop",
+        "image/islamic.jpeg",
       featured: true,
     },
     {
@@ -59,7 +59,7 @@ export default function Blog() {
       readTime: "6 min read",
       category: "Education",
       image:
-        "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=400&fit=crop",
+        "image/islamic.jpeg",
       featured: false,
     },
     {
@@ -74,7 +74,7 @@ export default function Blog() {
       readTime: "8 min read",
       category: "Parenting",
       image:
-        "https://images.unsplash.com/photo-1544531586-fbb071b2cc17?w=800&h=400&fit=crop",
+        "image/islamic.jpeg",
       featured: false,
     },
     {
@@ -89,7 +89,7 @@ export default function Blog() {
       readTime: "10 min read",
       category: "Art & Culture",
       image:
-        "https://images.unsplash.com/photo-1578508920169-7a87bc09b35b?w=800&h=400&fit=crop",
+        "image/islamic.jpeg",
       featured: false,
     },
     {
@@ -104,7 +104,7 @@ export default function Blog() {
       readTime: "6 min read",
       category: "Spirituality",
       image:
-        "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&h=400&fit=crop",
+        "image/islamic.jpeg",
       featured: false,
     },
   ];

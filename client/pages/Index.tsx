@@ -29,7 +29,7 @@ export default function Index() {
     {
       id: 1,
       image:
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1920&h=1080&fit=crop",
+        "image/profile2.jpeg",
       title: "Learn the Holy Quran",
       subtitle: "🌟 Premium Islamic Education",
       description:
@@ -40,7 +40,7 @@ export default function Index() {
     {
       id: 2,
       image:
-        "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1920&h=1080&fit=crop",
+        "image/profile1.jpeg",
       title: "Master Tajweed Rules",
       subtitle: "✨ Perfect Your Recitation",
       description:
@@ -51,7 +51,7 @@ export default function Index() {
     {
       id: 3,
       image:
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1920&h=1080&fit=crop",
+        "image/profile1.jpeg",
       title: "Memorize with Excellence",
       subtitle: "🎯 Hifz Program",
       description:
@@ -62,7 +62,7 @@ export default function Index() {
     {
       id: 4,
       image:
-        "https://images.unsplash.com/photo-1544531586-fbb071b2cc17?w=1920&h=1080&fit=crop",
+        "image/profile1.jpeg",
       title: "Islamic Studies",
       subtitle: "📚 Comprehensive Knowledge",
       description:
@@ -147,23 +147,23 @@ export default function Index() {
       text: "The teachers are very patient and knowledgeable. My Quran reading has improved significantly.",
       rating: 5,
       image:
-        "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=400&fit=crop&crop=face",
+        "image/girl.jpg",
     },
     {
-      name: "Muhammad Ali",
+      name: "Umair Mazhar",
       role: "Parent",
       text: "Excellent academy for children. My son completed his Hifz here with great success.",
       rating: 5,
       image:
-        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
+        "image/umair.jpg",
     },
     {
-      name: "Fatima Ahmed",
+      name: "Waseem Shah",
       role: "Working Professional",
       text: "Flexible timings allowed me to learn while managing my job. Highly recommended!",
       rating: 5,
       image:
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+        "image/profile2.jpeg",
     },
   ];
 
@@ -420,7 +420,7 @@ export default function Index() {
                 </div>
               </div>
               <p className="text-white/70 mb-4">
-                Providing quality Islamic education with modern teaching methods
+                Al Duha Institute Quran Academy Providing quality Islamic education with modern teaching methods
                 and traditional values.
               </p>
             </div>
@@ -503,15 +503,15 @@ export default function Index() {
               <div className="space-y-3 text-white/70">
                 <div className="flex items-center space-x-3">
                   <Phone className="w-5 h-5" />
-                  <span>+1 (555) 123-4567</span>
+                  <span>+92 347 0105539</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Mail className="w-5 h-5" />
-                  <span>info@alduhainstitute.com</span>
+                  <span>maktabaadduha@gmail.com</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <MapPin className="w-5 h-5" />
-                  <span>123 Islamic Center, City, State</span>
+                  <span>PWD Society Islamabad, Islamabad, Pakistain</span>
                 </div>
               </div>
             </div>

@@ -322,7 +322,7 @@ export default function FAQ() {
                   Pakistan: +92-347-0105539
                 </p>
                 <p className="text-sm text-muted-foreground">
-                  USA: +1-409-1234567
+                  USA: +92-347-0105539
                 </p>
               </CardContent>
             </Card>

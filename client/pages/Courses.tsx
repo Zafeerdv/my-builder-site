@@ -133,7 +133,7 @@ export default function Courses() {
           popular: true,
         },
         {
-          name: "Ijazah",
+          name: "Speeches",
           description: "Authorized certification in Quranic recitation",
           duration: "1-2 years",
           level: "Advanced",

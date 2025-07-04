@@ -23,18 +23,18 @@ export default function Testimonials() {
       text: "The teachers are very patient and knowledgeable. My Quran reading has improved significantly, and I feel more connected to my faith through proper pronunciation and understanding.",
       rating: 5,
       image:
-        "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=400&fit=crop&crop=face",
+        "image/girl.jpg",
       course: "Quran with Tajweed",
       completedAt: "March 2024",
     },
     {
-      name: "Muhammad Ali",
+      name: "Muhammad Zafeer",
       role: "Parent",
       location: "London, UK",
       text: "Excellent academy for children. My son completed his Hifz here with great success. The structured approach and caring teachers made all the difference in his journey.",
       rating: 5,
       image:
-        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
+        "image/zafeer.jpg",
       course: "Hifz Program",
       completedAt: "February 2024",
     },
@@ -45,7 +45,7 @@ export default function Testimonials() {
       text: "Flexible timings allowed me to learn while managing my job. The online platform is excellent and the teachers are very accommodating to working professionals like myself.",
       rating: 5,
       image:
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+        "image/girl.jpg",
       course: "Islamic Studies",
       completedAt: "January 2024",
     },
@@ -56,7 +56,7 @@ export default function Testimonials() {
       text: "Learning Arabic grammar here has been transformative. The systematic approach and clear explanations have made complex topics understandable and enjoyable.",
       rating: 5,
       image:
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+        "image/zafeer.jpg",
       course: "Arabic Grammar",
       completedAt: "December 2023",
     },
@@ -67,7 +67,7 @@ export default function Testimonials() {
       text: "Both my children and I are learning here. The family-friendly approach and individual attention to each student's pace makes this academy truly special.",
       rating: 5,
       image:
-        "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=400&fit=crop&crop=face",
+        "image/girl.jpg",
       course: "Family Package",
       completedAt: "November 2023",
     },
@@ -78,7 +78,7 @@ export default function Testimonials() {
       text: "The Ijazah program exceeded my expectations. The depth of knowledge and traditional chain of transmission gives authenticity to my Quranic education.",
       rating: 5,
       image:
-        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
+        "image/zafeer.jpg",
       course: "Ijazah Program",
       completedAt: "October 2023",
     },
@@ -86,7 +86,7 @@ export default function Testimonials() {
 
   const stats = [
     {
-      number: "500+",
+      number: "5000+",
       label: "Happy Students",
       icon: <Users className="w-6 h-6" />,
     },
@@ -96,7 +96,7 @@ export default function Testimonials() {
       icon: <Heart className="w-6 h-6" />,
     },
     {
-      number: "50+",
+      number: "500+",
       label: "Countries Served",
       icon: <Award className="w-6 h-6" />,
     },

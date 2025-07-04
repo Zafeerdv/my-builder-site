@@ -82,7 +82,7 @@ export default function Contact() {
       title: "USA Phone",
       content: "+1-409-1234567",
       description: "Call us in USA",
-      link: "tel:+14091234567",
+      link: "tel:+923470105539",
     },
     {
       icon: <MapPin className="w-6 h-6" />,
